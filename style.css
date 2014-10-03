@@ -1,0 +1,104 @@
+.body {
+    width: 800;
+    margin: 40px auto 60px;
+    font-size: 1em;
+    color: #414142;
+    font-family: "Courier New";
+    background-color: light;
+}
+
+
+
+.body img {
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 200px;
+} 
+
+.body .header {
+    padding: 0 0 4em 0;
+}
+
+.education {
+     position: relative;
+    
+    
+}
+
+
+.body .head {
+    text-align:right;
+    padding: 0 26px 0 0;
+    width: 150px;
+    float: left;
+    height: 165px;
+    border-right: 1px solid #999;
+}
+
+.body .eduinfo {
+    width: 550px;
+    float: right;
+}
+
+.body .headsk{
+    text-align:right;
+    padding: 2px 26px 0 0;
+    width: 150px;
+    float: left;
+    height: 100px;
+    border-right: 1px solid #999;
+}
+
+.body .skinfo {
+    width: 550px;
+    float: right;
+}
+
+.body .headexp {
+    text-align: right;
+    padding: 8px 26px 0 0;
+    width: 150px;
+    float: left;
+    height: 738px;
+    border-right: 1px solid #999;
+    border-top: 10px;
+}
+
+.body .expinfo {
+    width: 550px;
+    float: right;
+}
+
+.body .headhob {
+    text-align: right;
+    padding: 8px 26px 0 0;
+    width: 150px;
+    float: left;
+    height: 80px;
+    border-right: 1px solid #999;
+}
+
+.body .hobinfo {
+    width: 550px;
+    float: right;
+    height: 80px;
+}
+
+
+.body .headref {
+    text-align: right;
+    padding: 8px 26px 0 0;
+    width: 150px;
+    float: left;
+    height: 100px;
+    border-right: 1px solid #999 ;
+}
+
+.body .refinfo {
+    width: 550px;
+    float: right;
+}
+
+.body .clear {
+    clear: both;
+}
